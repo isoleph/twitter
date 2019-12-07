@@ -3,4 +3,11 @@
 </div>
 
 # Repository for Twitter Thread Code 
-Here you'll find some code I used to create twitter threads for my twitter account [@astroparticular](https://twitter.com/astroparticular)!
+Here you'll find some code I used to create twitter threads for my twitter account [@astroparticular](https://twitter.com/astroparticular)! Most of this is done using 3Blue1Brown's math animation engine [manim](https://github.com/3b1b/manim).
+
+## November 2019
+- [Tensors](https://twitter.com/astroparticular/status/1195470423154053120): `tensors.py`
+- [The Hamiltonian](https://twitter.com/astroparticular/status/1198070673819619328): `hamiltonian.py`
+## December 2019
+- [Klein-Gordon Equation from the Dirac Equation](https://twitter.com/astroparticular/status/1200668439091634176): `klein_dirac`
+- [Dirac Delta Thread](https://twitter.com/astroparticular/status/1203031023417643008): `dirac_delta`
