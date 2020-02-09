@@ -1,5 +1,5 @@
 <div align="center">
-<img src="img/twitter.png" width="20%">
+<img src="img/dev.png" width="20%">
 </div>
 
 # Repository for Twitter Thread Code 
